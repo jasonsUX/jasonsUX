@@ -1,28 +1,61 @@
-Hello, I am pleased to meet you! My name is Jason Tan and welcome to my portfolio! I am working hard to achieve my goals of redefining design and what it means to implement simplicity into a modern field. I have experience in User Research, AI training, and Front-End Web Development. You can see my projects below, hope you stick around! :) - Jason
+# 👋 Hello, I'm Jason Tan!
 
-Proficient Coding Languages:
-HTML5, CSS, JavaScript
+Hello, I am pleased to meet you, and welcome to my portfolio!
 
-Currently Learning:
-Java, Python, C#, react.js, Node.js
+I am working hard to achieve my goals of redefining design and exploring what it means to implement simplicity into the modern world. I have experience in **User Research, AI Training, and Front-End Web Development**.
 
-Portfolio:
-[TBD]
+Feel free to explore my projects below. I hope you stick around! :)
 
-Contact Information:
-	jasonsux2004@gmail.com / 
-	(480)-628-6308
+— Jason
 
-Current Projects:
-CruzControl, PitchPulse
+---
 
-Past Projects:
-WaterSIMmersive
+## 💻 Technical Skills
 
-Passion Areas:
-AI Research, e-Commerce, Sports
+### Proficient Coding Languages
+- HTML5
+- CSS
+- JavaScript
 
+### Currently Learning
+- Java
+- Python
+- C#
+- React.js
+- Node.js
 
+---
 
+## 🚀 Projects
 
+### Current Projects
+- CruzControl
+- PitchPulse
 
+### Past Projects
+- WaterSIMmersive
+
+---
+
+## 🎯 Passion Areas
+
+- AI Research
+- E-Commerce
+- Sports
+
+---
+
+## 🌐 Portfolio
+
+[Visit My Portfolio](TBD)
+
+---
+
+## 📫 Contact Information
+
+- **Email:** [jasonsux2004@gmail.com](mailto:jasonsux2004@gmail.com)
+- **Phone:** (480)-628-6308
+
+---
+
+*Thank you for visiting my profile! I'm always looking to learn, create, and explore new opportunities.*
