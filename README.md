@@ -47,8 +47,7 @@ Feel free to explore my projects below. I hope you stick around! :)
 
 ## 🌐 Portfolio
 
-[Visit My Portfolio](TBD)
-
+[TBD]
 ---
 
 ## 📫 Contact Information
